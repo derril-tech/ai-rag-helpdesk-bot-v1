@@ -2,8 +2,6 @@
 **with LangGraph AI Agents**
 
 
-🌐 **See the Live Application**: [https://ai-rag-helpdesk-bot.vercel.app/](https://ai-rag-helpdesk-bot.vercel.app/)
-
 > **Enterprise-ready AI helpdesk that answers support questions using LangGraph-powered RAG over your Notion docs. Get accurate answers with citations and guardrails—instantly.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -74,24 +72,6 @@
 - **Full CI/CD** - Automatic deployments on push
 
 ---
-
-
-
-### 🏠 Homepage
-![Homepage](web/public/hero-preview.png)
-*Beautiful landing page with dynamic video backgrounds and clear value proposition*
-
-### 🎮 Playground
-![Playground](web/public/playground-preview.png)
-*Interactive chat interface with citations, voice input, and follow-up suggestions*
-
-### 📊 Dashboard
-![Dashboard](web/public/dashboard-preview.png)
-*Comprehensive analytics with conversation history and real-time metrics*
-
----
-
-
 
 ## 📖 User Guide
 
@@ -164,10 +144,6 @@
 ## 👨‍💻 Creator
 
 **Created by Derril Filemon**
-
-[![GitHub](https://img.shields.io/badge/GitHub-derril--tech-black?logo=github)](https://github.com/derril-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derril%20Filemon-blue?logo=linkedin)](https://www.linkedin.com/in/derril-filemon)
-
 ---
 
 ## 🙏 Acknowledgments
@@ -183,17 +159,8 @@
 
 ---
 
-## 📞 Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-rag-helpdesk-bot/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-rag-helpdesk-bot/discussions)
-- 📧 **Contact**: [LinkedIn](https://www.linkedin.com/in/derril-filemon)
-
----
 
 <div align="center">
-
-**⭐ Star this repo if you find it useful!**
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
